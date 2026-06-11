@@ -1,0 +1,6 @@
+{
+  "name": "LuxCalc - Proračun Rasvjete",
+  "description": "Profesionalna web aplikacija za proračun unutarnje rasvjete prema normi EN 12464-1. Uključuje izračun faktora iskoristivosti i generiranje PDF izvještaja.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
